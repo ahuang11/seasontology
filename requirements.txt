@@ -5,3 +5,4 @@ param
 numpy
 pandas
 holoviews
+hvplot
