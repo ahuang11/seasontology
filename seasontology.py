@@ -9,9 +9,9 @@ import holoviews as hv
 
 from holoviews.streams import Stream
 # https://github.com/bokeh/bokeh/pull/8062
-from bokeh.themes import built_in_themes
+# from bokeh.themes import built_in_themes
 
-hv.renderer('bokeh').theme = built_in_themes['light_minimal']
+# hv.renderer('bokeh').theme = built_in_themes['light_minimal']
 hv.extension('bokeh')
 
 DATA = 'data'

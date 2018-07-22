@@ -1,5 +1,5 @@
 git+git://github.com/ahuang11/holoext.git
-git+git://github.com/ahuang11/bokeh.git
+bokeh
 param
 parambokeh
 numpy
