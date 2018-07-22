@@ -1,7 +1,7 @@
-git+git://github.com/ioam/parambokeh
 git+git://github.com/ahuang11/holoext.git
 git+git://github.com/ahuang11/bokeh.git
 param
+parambokeh
 numpy
 pandas
 holoviews
